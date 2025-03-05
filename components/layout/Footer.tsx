@@ -76,7 +76,7 @@ export default function Footer() {
             </h3>
             <div className="mt-4 flex space-x-5">
               <motion.a
-                href="https://github.com/vinodjangid07"
+                href="https://github.com/rahuljangirwork"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gray-500 hover:text-gray-800"
@@ -98,7 +98,7 @@ export default function Footer() {
                 </svg>
               </motion.a>
               <motion.a
-                href="https://www.instagram.com/pexel_ui/"
+                href="https://www.instagram.com/rahuljangirwork/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gray-500 hover:text-pink-600"
@@ -120,7 +120,7 @@ export default function Footer() {
                 </svg>
               </motion.a>
               <motion.a
-                href="mailto:infovinodjangid@gmail.com"
+                href="mailto:rahuljangir.works@gmail.com"
                 className="text-gray-500 hover:text-blue-600"
                 whileHover={{ scale: 1.1, y: -2 }}
                 transition={{ type: "spring", stiffness: 300 }}
@@ -170,13 +170,13 @@ export default function Footer() {
             <div className="mt-4 md:mt-0 flex items-center">
               <span className="text-sm text-gray-500">Designed & built by</span>
               <motion.a
-                href="https://github.com/vinodjangid07"
+                href="https://github.com/rahuljangirwork"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="ml-1.5 text-sm font-medium text-purple-600 hover:text-purple-500 flex items-center"
                 whileHover={{ scale: 1.05 }}
               >
-                vinodjangid07
+                Rahul Jangir
                 <svg
                   className="ml-1 h-4 w-4"
                   fill="currentColor"

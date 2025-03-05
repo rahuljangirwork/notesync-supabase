@@ -2,7 +2,7 @@
 
 A modern 📝 note-taking application built with Next.js and Supabase.
 
-![NoteSync Preview](public/images/readmePreview.png)
+![NoteSync Preview](public/images/showcase.png)
 
 ## 🚀 Features
 
@@ -30,7 +30,7 @@ A modern 📝 note-taking application built with Next.js and Supabase.
 
 1️⃣ **Clone the repository:**
 ```bash
-git clone https://github.com/vinodjangid07/notesync-supabase.git
+git clone https://github.com/rahuljangirwork/notesync-supabase
 cd notesync-supabase
 ```
 
@@ -56,4 +56,5 @@ yarn dev
 ### 💖 Acknowledgements
 - 🎨 UI components inspired by modern design practices
 - ⚙️ Built with Supabase for backend functionality
-- 🚀 Designed and developed by vinodjangid07
+- 🚀 Designed and developed by [vinodjangid07](https://github.com/vinodjangid07)
+

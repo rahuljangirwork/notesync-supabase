@@ -17,8 +17,8 @@ export const metadata: Metadata = {
   title: "NoteSync",
   description: "Capture your ideas, anytime, anywhere.",
   keywords: ["NoteSync", "note-taking app", "online notes", "cloud notes", "secure notes", "productivity"],
-  authors: [{ name: "Vinod Kumar", url: "https://www.vinodjangid.site" }],
-  creator: "Vinod Kumar",
+  authors: [{ name: "Rahul jangir", url: "https://www.rahuljangir.works" }],
+  creator: "Rahul jangir",
   openGraph: {
     title: "NoteSync - Capture Your Ideas, Anytime, Anywhere",
     description: "A cloud-based note-taking app that helps you organize and access your notes securely from anywhere.",
@@ -39,7 +39,7 @@ export const metadata: Metadata = {
     title: "NoteSync - Cloud-Based Note-Taking App",
     description: "Capture your ideas effortlessly with NoteSync. Secure, fast, and accessible anytime, anywhere.",
     images: ["https://notesync-site.netlify.app/images/ogimage.png"],
-    creator: "@Vinod_Jangid07",
+    creator: "@aarjaycreation",
   },
 };
 
